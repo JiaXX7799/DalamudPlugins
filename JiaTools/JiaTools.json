@@ -15,6 +15,6 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/JiaXX7799/DalamudPlugins/main/plugins/JiaTools/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/JiaXX7799/DalamudPlugins/main/JiaTools/icon.png",
   "Changelog": ""
 }
