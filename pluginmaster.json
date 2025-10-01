@@ -18,9 +18,9 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "DownloadCount": 114514,
-    "IconUrl": "https://raw.githubusercontent.com/JiaXX7799/DalamudPlugins/main/JiaTools/icon.png",
-    "DownloadLinkInstall": "https://github.com/JiaXX7799/DalamudPlugins/raw/main/JiaTools/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/JiaXX7799/DalamudPlugins/raw/main/JiaTools/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/JiaXX7799/DalamudPlugins/main/plugins/JiaTools/icon.png",
+    "DownloadLinkInstall": "https://github.com/JiaXX7799/DalamudPlugins/raw/main/plugins/JiaTools/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/JiaXX7799/DalamudPlugins/raw/main/plugins/JiaTools/latest.zip",
     "Changelog": ""
   }
 ]
